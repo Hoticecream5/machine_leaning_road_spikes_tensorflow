@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Road-spikes-hijacking.webp</filename>
+	<path>C:\Windows\System32\TensorFlow\workspace\training_demo\images\Road-spikes-hijacking.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>186</ymin>
+			<xmax>706</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

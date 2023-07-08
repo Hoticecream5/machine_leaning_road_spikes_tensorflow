@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>rubberspikes.jpg</filename>
+	<path>C:\Windows\System32\TensorFlow\workspace\training_demo\images\rubberspikes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>247</ymin>
+			<xmax>421</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>
